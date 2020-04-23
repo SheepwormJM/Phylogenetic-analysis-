@@ -1,0 +1,11 @@
+# Online software tools:
+
+# https://nextstrain.org/
+# Makes very pretty pictures. For virus data. Cannot download fasta files, but I think can upload your own data.
+# Shows spread of viruses, and can colour in various ways (genotype, country, region, particular SNP etc)
+# Uses Augur and Auspice.
+# 
+# “Augur” — a series of composable, modular (Unix-like) bioinformatics tools. We use these to create recipes for different pathogens and 
+# different analyses, which are easy to reproduce when new data is available. (https://github.com/nextstrain/augur/blob/master/README.md)
+# “Auspice” — a web-based visualization program, to present & interact with phylogenomic & phylogeographic data. Can also run locally on
+# own computer. (https://github.com/nextstrain/auspice/blob/master/README.md)
